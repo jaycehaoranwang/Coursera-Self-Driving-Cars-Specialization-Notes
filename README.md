@@ -6,3 +6,6 @@ Markdown notes written by Jayce Haoran Wang (me) taken from courses throughout t
 - Visual Perception for Self-Driving Cars
 - Motion Planning for Self-Driving Cars
 
+Credentials here: https://www.coursera.org/account/accomplishments/specialization/CEVEWPL4D8YS
+
+More about the specialization here: https://www.coursera.org/specializations/self-driving-cars
